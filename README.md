@@ -1,4 +1,10 @@
 # omarchy-lumon-assets
+<!-- lumon-voice:head -->
+```
+░▒▓█  L U M O N   I N D U S T R I E S  █▓▒░
+```
+> *Shared materials. Please handle each equally.*
+<!-- /lumon-voice:head -->
 
 <!-- lumon-set:start -->
 > **Part of [Omarchy · Lumon Industries](https://github.com/KaiCryan/omarchy-lumon)** — a whole-system *Severance* theme for Omarchy.
@@ -47,3 +53,14 @@ See `SOURCES.md` for attribution — this is unofficial *Severance* fan work.
 - [omarchy-lumon-lock](https://github.com/KaiCryan/omarchy-lumon-lock) — lock screen
 - [omarchy-lumon-boot](https://github.com/KaiCryan/omarchy-lumon-boot) — Plymouth splash
 - [omarchy-lumon-theme](https://github.com/KaiCryan/omarchy-lumon-theme) — colors, look'n'feel, branding
+
+---
+
+<div align="center"><sub>
+
+*The work is mysterious and important.*
+
+Part of [Omarchy · Lumon Industries](https://github.com/KaiCryan/omarchy-lumon) · a personal, non-commercial *Severance* tribute · not affiliated with Apple TV+
+
+</sub></div>
+<!-- lumon-voice:footer -->
