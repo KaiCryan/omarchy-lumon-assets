@@ -3,3 +3,6 @@ __pycache__/
 *.bak
 *.bak.*
 .DS_Store
+
+# vendored Lumon vector logo pack (copyrighted; re-downloadable per SOURCES.md)
+/logos/
